@@ -39,7 +39,7 @@ For custom bookings, feel free to reach out via email or phone.
 
 ## 📸 Gallery
 Explore our space:  
-![Studio Preview]([https://via.placeholder.com/800x400](https://postimg.cc/svJYCF4L)) *(Replace with actual image link)*
+((https://postimg.cc/svJYCF4L)) 
 
 ## ⭐ Reviews
 _"Absolutely loved staying at Kataleya Rental Studio! The ambiance and facilities are top-notch."_ – *Happy Guest*  
@@ -48,7 +48,7 @@ _"Great location and very comfortable. Highly recommend!"_ – *Satisfied Renter
 ## 🔗 Follow Us
 Stay updated with our latest offers and events:  
 
-📘 Facebook: [(https://www.facebook.com/profile.php?id=61564019435957)]  
+📘 Facebook: [https://www.facebook.com/profile.php?id=61564019435957]  
 
 ---
 
